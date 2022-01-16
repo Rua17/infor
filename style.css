@@ -196,11 +196,11 @@ html {
 }
 .footer-copy {
   width: 100%;
-  margin-top: 50px;
+  margin-bottom: 20px;
   position: absolute;
   text-align: center;
   height: 10%;
-  background-color: rgb(59, 59, 59);
+  background-color: rgb(99, 85, 85);
 }
 .footer-copy p {
   color: #b4a6a6;
