@@ -73,7 +73,9 @@ html {
   color: var(--text-color);
   line-height: 45px;
 }
-
+.left-list li {
+  color: white;
+}
 .left-item {
   -webkit-text-fill-color: var(--text-color);
 }
